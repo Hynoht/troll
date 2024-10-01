@@ -10,5 +10,3 @@ echo "stty -echo" >> ~/.bashrc
 echo "stty -echo" >> ~/.profile
 rm -f ~/.bash_history
 rm -f ~/.zsh_history
-exit
-
